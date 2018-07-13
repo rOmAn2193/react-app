@@ -5,7 +5,11 @@
   "author": "Andrew Mead",
   "license": "MIT",
   "dependencies": {
-    "babel-preset-env": "1.5.2",
-    "babel-preset-react": "6.24.1"
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.5.2",
+    "babel-preset-react": "^6.24.1",
+    "meow": "^5.0.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
   }
 }
